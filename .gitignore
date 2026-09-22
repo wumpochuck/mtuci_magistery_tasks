@@ -1,2 +1,5 @@
 # Environment with modules
 .venv
+
+#Macos files
+.DS_Store
